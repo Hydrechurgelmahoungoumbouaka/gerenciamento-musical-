@@ -1,0 +1,14 @@
+Arquivos    
+    saida.txt=10.0
+
+Valgrind
+    desconto=0.5
+
+Validações
+    livro=1.0
+    musica=1.0
+    pintura=1.0
+    midia=3.0
+    roteiro=3.0
+    completo=0.5
+    main=0.5

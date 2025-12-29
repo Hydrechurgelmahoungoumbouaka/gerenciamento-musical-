@@ -1,0 +1,11 @@
+10
+L O_Senhor_dos_Aneis J.R.R._Tolkien Fantasia HarperCollins 1954
+M Stairway_to_Heaven Led_Zeppelin 2 Robert_Plant Jimmy_Page Led_Zeppelin_IV Rock
+P O_Grito Edvard_Munch Expressionismo Óleo_sobre_Tela 1893
+L O_Conteudo_do_Vazio Clovis_de_Barro Romance Independente 2020
+M Imagine John_Lennon 1 Yoko_Ono Imagine Rock
+P Noite_Estrela Vincent_van_Gogh Pós-Impressionismo Óleo_sobre_Tela 1889
+M Billie_Jean Michael_Jackson 1 Quincy_Jones Thriller Pop
+L A_Metamorfose Franz_Kafka Ficcao Moderna 1915
+P O_Ultimo_dia_de_Pompeia Karl_Bryullov Romantismo Óleo_sobre_Tela 1833
+M Hey_Jude The_Beatles 4 Paul_McCartney John_Lennon George_Harrison Ringo_Starr The_Beatles Rock

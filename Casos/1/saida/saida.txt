@@ -1,0 +1,20 @@
+IMPRIMINDO MIDIAS
+MIDIA 1: LIVRO
+Titulo: 1984
+Autor: George_Orwell
+Genero: Distopia
+Editora: Companhia_das_Letras
+Ano: 1949
+
+MIDIA 2: MUSICA
+Queen - Bohemian_Rhapsody (feat. Freddie_Mercury, Brian_May, Roger_Taylor)
+Album: A_Night_at_the_Opera
+Genero: Rock
+
+MIDIA 3: PINTURA
+Titulo: Starry_Night
+Artista: Vincent_van_Gogh
+Movimento: Pós-Impressionismo
+Material: Óleo_sobre_Tela
+Ano: 1889
+

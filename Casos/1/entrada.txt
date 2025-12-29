@@ -1,0 +1,4 @@
+3
+L 1984 George_Orwell Distopia Companhia_das_Letras 1949
+M Bohemian_Rhapsody Queen 3 Freddie_Mercury Brian_May Roger_Taylor A_Night_at_the_Opera Rock
+P Starry_Night Vincent_van_Gogh Pós-Impressionismo Óleo_sobre_Tela 1889

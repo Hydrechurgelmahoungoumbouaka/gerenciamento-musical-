@@ -1,0 +1,25 @@
+IMPRIMINDO MIDIAS
+MIDIA 1: MUSICA
+Michael_Jackson - Thriller (feat. Quincy_Jones)
+Album: Thriller
+Genero: Pop
+
+MIDIA 2: MUSICA
+Nirvana - Smells_Like_Teen_Spirit (feat. Kurt_Cobain, Krist_Novoselic, Dave_Grohl)
+Album: Nevermind
+Genero: Grunge
+
+MIDIA 3: LIVRO
+Titulo: Dom_Casmurro
+Autor: Machado_de_Assis
+Genero: Romance
+Editora: Garnier
+Ano: 1899
+
+MIDIA 4: PINTURA
+Titulo: Guernica
+Artista: Pablo_Picasso
+Movimento: Cubismo
+Material: Óleo_sobre_Tela
+Ano: 1937
+

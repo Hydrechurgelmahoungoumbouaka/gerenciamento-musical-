@@ -1,0 +1,92 @@
+IMPRIMINDO MIDIAS
+MIDIA 1: MUSICA
+Queen - Bohemian_Rhapsody (feat. Freddie_Mercury, Brian_May, Roger_Taylor)
+Album: A_Night_at_the_Opera
+Genero: Rock
+
+MIDIA 2: LIVRO
+Titulo: O_Codigo_da_Vinci
+Autor: Dan_Brown
+Genero: Thriller
+Editora: Arqueiro
+Ano: 2003
+
+MIDIA 3: PINTURA
+Titulo: O_Bosque_de_Beterraba
+Artista: Ivan_Shishkin
+Movimento: Realismo
+Material: Óleo_sobre_Tela
+Ano: 1876
+
+MIDIA 4: MUSICA
+Nirvana - Smells_Like_Teen_Spirit (feat. Kurt_Cobain, Krist_Novoselic, Dave_Grohl)
+Album: Nevermind
+Genero: Grunge
+
+MIDIA 5: LIVRO
+Titulo: Orgulho_e_Preconceito
+Autor: Jane_Austen
+Genero: Romance
+Editora: Penguin
+Ano: 1813
+
+MIDIA 6: PINTURA
+Titulo: O_Retorno_do_Filho_Pródigo
+Artista: Rembrandt
+Movimento: Barroco
+Material: Óleo_sobre_Tela
+Ano: 1669
+
+MIDIA 7: MUSICA
+Pink_Floyd - Comfortably_Numb (feat. David_Gilmour, Roger_Waters)
+Album: The_Wall
+Genero: Rock
+
+MIDIA 8: LIVRO
+Titulo: Cem_Anos_de_Solidao
+Autor: Gabriel_Garcia_Marquez
+Genero: Realismo_Mágico
+Editora: Record
+Ano: 1967
+
+MIDIA 9: MUSICA
+Eminem - Lose_Yourself (feat. Dr.Dre)
+Album: 8_Mile
+Genero: Hip-Hop
+
+MIDIA 10: PINTURA
+Titulo: A_Liberdade_Guiando_o_Povo
+Artista: Eugène_Delacroix
+Movimento: Romantismo
+Material: Óleo_sobre_Tela
+Ano: 1830
+
+MIDIA 11: MUSICA
+Adele - Rolling_in_the_Deep (feat. Paul_Epworth)
+Album: 21
+Genero: Soul
+
+MIDIA 12: LIVRO
+Titulo: As_Intermitencias_da_Morte
+Autor: Jose_Saramago
+Genero: Ficcao
+Editora: Companhia_das_Letras
+Ano: 2005
+
+MIDIA 13: MUSICA
+Ed_Sheeran - Shape_of_You (feat. Johnny_McDaid, Steve_Mac)
+Album: NULL
+Genero: Pop
+
+MIDIA 14: PINTURA
+Titulo: O_Nascimento_de_Venus
+Artista: Sandro_Botticelli
+Movimento: Renascimento
+Material: Têmpera_sobre_Tela
+Ano: 1486
+
+MIDIA 15: MUSICA
+Guns_N_Roses - Sweet_Child_o_Mine (feat. Axl_Rose, Slash, Duff_McKagan)
+Album: Appetite_for_Destruction
+Genero: Rock
+

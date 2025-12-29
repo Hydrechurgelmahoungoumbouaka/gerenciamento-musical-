@@ -1,0 +1,16 @@
+15
+M Bohemian_Rhapsody Queen 3 Freddie_Mercury Brian_May Roger_Taylor A_Night_at_the_Opera Rock
+L O_Codigo_da_Vinci Dan_Brown Thriller Arqueiro 2003
+P O_Bosque_de_Beterraba Ivan_Shishkin Realismo Óleo_sobre_Tela 1876
+M Smells_Like_Teen_Spirit Nirvana 3 Kurt_Cobain Krist_Novoselic Dave_Grohl Nevermind Grunge
+L Orgulho_e_Preconceito Jane_Austen Romance Penguin 1813
+P O_Retorno_do_Filho_Pródigo Rembrandt Barroco Óleo_sobre_Tela 1669
+M Comfortably_Numb Pink_Floyd 2 David_Gilmour Roger_Waters The_Wall Rock
+L Cem_Anos_de_Solidao Gabriel_Garcia_Marquez Realismo_Mágico Record 1967
+M Lose_Yourself Eminem 1 Dr.Dre 8_Mile Hip-Hop
+P A_Liberdade_Guiando_o_Povo Eugène_Delacroix Romantismo Óleo_sobre_Tela 1830
+M Rolling_in_the_Deep Adele 1 Paul_Epworth 21 Soul
+L As_Intermitencias_da_Morte Jose_Saramago Ficcao Companhia_das_Letras 2005
+M Shape_of_You Ed_Sheeran 2 Johnny_McDaid Steve_Mac NULL Pop
+P O_Nascimento_de_Venus Sandro_Botticelli Renascimento Têmpera_sobre_Tela 1486
+M Sweet_Child_o_Mine Guns_N_Roses 3 Axl_Rose Slash Duff_McKagan Appetite_for_Destruction Rock

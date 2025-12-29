@@ -1,0 +1,20 @@
+IMPRIMINDO MIDIAS
+MIDIA 1: LIVRO
+Titulo: O_Pequeno_Principe
+Autor: Saint-Exupéry
+Genero: Fabula
+Editora: HarperCollins
+Ano: 1943
+
+MIDIA 2: MUSICA
+Yussef_Dayes - Marching_Band (feat. Masego)
+Album: Black_Classical_Music
+Genero: Jazz
+
+MIDIA 3: PINTURA
+Titulo: Mona_Lisa
+Artista: Leonardo_Da_Vinci
+Movimento: Renascimento
+Material: Tinta_a_Oleo
+Ano: 1532
+

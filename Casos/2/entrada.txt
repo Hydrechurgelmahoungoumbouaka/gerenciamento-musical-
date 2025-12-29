@@ -1,0 +1,5 @@
+4
+M Thriller Michael_Jackson 1 Quincy_Jones Thriller Pop
+M Smells_Like_Teen_Spirit Nirvana 3 Kurt_Cobain Krist_Novoselic Dave_Grohl Nevermind Grunge
+L Dom_Casmurro Machado_de_Assis Romance Garnier 1899
+P Guernica Pablo_Picasso Cubismo Óleo_sobre_Tela 1937

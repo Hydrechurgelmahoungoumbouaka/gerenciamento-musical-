@@ -1,0 +1,63 @@
+IMPRIMINDO MIDIAS
+MIDIA 1: LIVRO
+Titulo: O_Senhor_dos_Aneis
+Autor: J.R.R._Tolkien
+Genero: Fantasia
+Editora: HarperCollins
+Ano: 1954
+
+MIDIA 2: MUSICA
+Led_Zeppelin - Stairway_to_Heaven (feat. Robert_Plant, Jimmy_Page)
+Album: Led_Zeppelin_IV
+Genero: Rock
+
+MIDIA 3: PINTURA
+Titulo: O_Grito
+Artista: Edvard_Munch
+Movimento: Expressionismo
+Material: Óleo_sobre_Tela
+Ano: 1893
+
+MIDIA 4: LIVRO
+Titulo: O_Conteudo_do_Vazio
+Autor: Clovis_de_Barro
+Genero: Romance
+Editora: Independente
+Ano: 2020
+
+MIDIA 5: MUSICA
+John_Lennon - Imagine (feat. Yoko_Ono)
+Album: Imagine
+Genero: Rock
+
+MIDIA 6: PINTURA
+Titulo: Noite_Estrela
+Artista: Vincent_van_Gogh
+Movimento: Pós-Impressionismo
+Material: Óleo_sobre_Tela
+Ano: 1889
+
+MIDIA 7: MUSICA
+Michael_Jackson - Billie_Jean (feat. Quincy_Jones)
+Album: Thriller
+Genero: Pop
+
+MIDIA 8: LIVRO
+Titulo: A_Metamorfose
+Autor: Franz_Kafka
+Genero: Ficcao
+Editora: Moderna
+Ano: 1915
+
+MIDIA 9: PINTURA
+Titulo: O_Ultimo_dia_de_Pompeia
+Artista: Karl_Bryullov
+Movimento: Romantismo
+Material: Óleo_sobre_Tela
+Ano: 1833
+
+MIDIA 10: MUSICA
+The_Beatles - Hey_Jude (feat. Paul_McCartney, John_Lennon, George_Harrison, Ringo_Starr)
+Album: The_Beatles
+Genero: Rock
+
